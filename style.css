@@ -17,3 +17,7 @@ button{
     color: brown;
     font-weight: 600;
 }
+
+.hide{
+    display: none;
+}
