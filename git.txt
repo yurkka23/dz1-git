@@ -14,5 +14,7 @@ as soon as the changes are green signalled they merged to the main source code. 
 but also improves productivity by making the development process smooth.
 
 I like git!!!
+Git is cool tool!!
+
 
 
