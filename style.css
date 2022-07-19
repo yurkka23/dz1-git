@@ -1,0 +1,19 @@
+.color{
+    color: red;
+}
+body{
+    text-align: center;
+    margin: 100px;
+}
+div{
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+button{
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid transparent;
+    color: brown;
+    font-weight: 600;
+}
