@@ -13,4 +13,6 @@ So in order to contribute to the product, they made modifications in the source 
 as soon as the changes are green signalled they merged to the main source code. It not only keeps source code organized 
 but also improves productivity by making the development process smooth.
 
+Git is cool tool!!
+
 
