@@ -1,4 +1,2 @@
 Git-Rebase
 Git Rebase is similar to git merge, but the logs are modified after merge in this technique. 
-Git rebase was introduced to overcome the limitation of merging, i.e., 
-to make logs of repository history look linear.
